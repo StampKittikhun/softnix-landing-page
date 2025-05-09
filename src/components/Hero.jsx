@@ -23,7 +23,7 @@ export default function Hero() {
   };
 
   return (
-    <section id="hero" className="bg-gradient-to-b from-sky-300/20 to-white backdrop-blur-md py-20 px-6 text-sky-900">
+    <section id="Hero" className="bg-gradient-to-b from-sky-300/20 to-white backdrop-blur-md py-20 px-6 text-sky-900">
       <div className="max-w-screen-xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         
         {/* Left Text Content */}
